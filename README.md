@@ -4,11 +4,11 @@
 **Technical Requirements:**
 - Basic knowledge of HTML and CSS.
 - Use of semantic HTML5 elements.
-- Display property.
-- Box property.
-- CSS selectors.
-- Text alignments.
-- Color and background properties
+- Display Properties.
+- Box Properties.
+- CSS Selectors.
+- Text Alignment.
+- Color and Background Properties
 - Use icons
 
 **Optional Enhancements:**
