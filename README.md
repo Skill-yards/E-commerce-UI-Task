@@ -1,6 +1,21 @@
 # E-commerce-UI-Task
 <img src="https://raw.githubusercontent.com/Skill-yards/E-commerce-UI-Task/main/E-Commerce%20Ui.jpg" alt="E-commerce" />
 
+**Description:**
+This project involves creating a Beauty product E-commerce using HTML, incorporating user testimonials, and showing products on the home page with categories or adding user cards.
+
+**Features:**
+
+1. **Homepage:**
+   - **Header:** Home, products, About.
+   - **Slider content:** Highlight the most used product with a discount.
+   - **Side bar :** Sidebar with icons.
+   - **Testimonials:** Showing user testimonials with rating and user profile.
+   - **Popular Products List:** All popular products with rating.
+   - **Recent Products:** Add a section on the page of the recently added products list.
+
+
+
 **Technical Requirements:**
 - Basic knowledge of HTML and CSS.
 - Use of semantic HTML5 elements.
@@ -14,4 +29,6 @@
 **Optional Enhancements:**
 - Background images of text
 - Use CSS frameworks like Bootstrap for quicker styling and responsive design.
-- Home Page Slider 
+- Home Page Slider
+
+<a href="https://dribbble.com/shots/22669113-Mobile-Accessories-Website?utm_source=Clipboard_Shot&utm_campaign=Mohammad-Mohsin&utm_content=Mobile%20Accessories%20Website&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Mohammad-Mohsin&utm_content=Mobile%20Accessories%20Website&utm_medium=Social_Share" target="_blank">Examples of projects pages</a>
