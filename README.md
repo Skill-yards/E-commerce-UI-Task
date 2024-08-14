@@ -13,6 +13,7 @@ This project involves creating a Beauty product E-commerce using HTML, incorpora
    - **Testimonials:** Showing user testimonials with rating and user profile.
    - **Popular Products List:** All popular products with rating.
    - **Recent Products:** Add a section on the page of the recently added products list.
+   - **Linking Section:** The header should link to the same page like when you click the product then the page auto scrolls and shows the product section.
 
 
 
