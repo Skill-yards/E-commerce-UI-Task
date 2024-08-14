@@ -9,6 +9,7 @@
 - CSS selectors.
 - Text alignments.
 - Color and background properties
+- Use icons
 
 **Optional Enhancements:**
 - Background images of text
