@@ -7,7 +7,7 @@ This project involves creating a Beauty product E-commerce using HTML, incorpora
 **Features:**
 
 1. **Homepage:**
-   - **Header:** Home, products, About.
+   - **Header:** Home, Products, About.
    - **Slider content:** Highlight the most used product with a discount.
    - **Side bar :** Sidebar with icons.
    - **Testimonials:** Showing user testimonials with rating and user profile.
