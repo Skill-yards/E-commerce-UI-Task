@@ -31,4 +31,4 @@ This project involves creating a Beauty product E-commerce using HTML, incorpora
 - Use CSS frameworks like Bootstrap for quicker styling and responsive design.
 - Home Page Slider
 
-<a href="https://dribbble.com/shots/22669113-Mobile-Accessories-Website?utm_source=Clipboard_Shot&utm_campaign=Mohammad-Mohsin&utm_content=Mobile%20Accessories%20Website&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Mohammad-Mohsin&utm_content=Mobile%20Accessories%20Website&utm_medium=Social_Share" target="_blank">Examples of projects pages</a>
+
