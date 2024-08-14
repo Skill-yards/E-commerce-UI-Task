@@ -14,3 +14,4 @@
 **Optional Enhancements:**
 - Background images of text
 - Use CSS frameworks like Bootstrap for quicker styling and responsive design.
+- Home Page Slider 
